@@ -22,6 +22,7 @@
 ## 📫 How to reach us（截止2025.06.29语音质检系统还在开发ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
+- 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
